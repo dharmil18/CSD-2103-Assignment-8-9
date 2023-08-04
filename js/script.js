@@ -1,3 +1,9 @@
+/*
+    Author: Dharmil Chhadva
+    ID: C0884179
+    Date: 4th Aug, 2023
+*/
+
 function validateForm() {
 
     event.preventDefault();
